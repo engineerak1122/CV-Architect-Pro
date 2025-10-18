@@ -62,7 +62,7 @@ This project was created by **Akhtar Nazeer**.
 
 ### 📝 License
 
-*(Insert your preferred license, e.g., MIT, Apache 2.0)*
+open source
 
 -----
 

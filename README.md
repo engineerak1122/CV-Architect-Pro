@@ -7,7 +7,7 @@
 | **Short Description** | A modern, responsive, and customizable CV/Resume Builder built with vanilla JavaScript and Tailwind CSS. Create professional, multi-template resumes instantly. |
 | **Primary Language** | JavaScript |
 | **Tags/Topics** | `javascript`, `tailwind-css`, `html`, `resume-builder`, `cv-generator`, `single-page-application` |
-| **Live Demo URL (Optional)** | *[Link to a GitHub Pages or Netlify demo]* |
+| **Live Demo URL (Optional)** | *(https://engineerak1122.github.io/CV-Architect-Pro/)* |
 
 -----
 
@@ -40,7 +40,7 @@ You only need a modern web browser (Chrome, Firefox, Edge, Safari).
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/cv-architect-pro.git
+    git clone https://engineerak1122.github.io/CV-Architect-Pro.git
     cd cv-architect-pro
     ```
 2.  **Open the file:**
